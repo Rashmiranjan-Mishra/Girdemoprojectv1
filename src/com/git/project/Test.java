@@ -12,6 +12,9 @@ public class Test {
    {
 	   System.out.println("Do something");
    }
+   
+   System.out.println("new changes done ");
+   
 	}
 
 }
